@@ -56,7 +56,7 @@ The dataset contains **32,581 loan applications** with **12 features** capturing
 
 ## 🏆 Performance Comparison
 
-*(actual output of `03_model_testing_evaluation.ipynb`, run [DATE])*
+*(actual output of `03_model_testing_evaluation.ipynb`, run 2 September 2026)*
 
 | Rank | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |------|-------|----------|-----------|--------|----------|---------|
