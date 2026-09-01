@@ -7,7 +7,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-> ⚠️ **Note on this README**: The performance numbers below were corrected on [DATE] to match the actual output of `03_model_testing_evaluation.ipynb`. An earlier version of this README overstated the results — see [Corrected vs. Original](#-corrected-vs-original) at the bottom.
+> ⚠️ **Note on this README**: The performance numbers below were corrected on 2 September 2026 to match the actual output of `03_model_testing_evaluation.ipynb`. An earlier version of this README overstated the results — see [Corrected vs. Original](#-corrected-vs-original) at the bottom.
 
 ---
 
